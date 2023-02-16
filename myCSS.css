@@ -41,6 +41,13 @@ a:hover, a:active, a:focus {
 	height: 60px;
 	text-align: center;
 }
+.contentHome {
+	background: #EEEEEE;
+	margin: 10px;
+	float: left;
+	width: 100%;
+	text-align: center;
+}
 .content {
 	background: #EEEEEE;
 	margin: 10px;
